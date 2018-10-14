@@ -1,0 +1,19 @@
+{
+  "name": "duckduckgo.instant-answer",
+  "description": "Retrieve instant answers.",
+  "type": "object",
+  "inputs": {
+    "duckduckgo": {
+      "type": "duckduckgo",
+      "required": true
+    },
+    "queries": {
+      "type": "string"
+    }
+  },
+  "outputs": {
+    "abstract": {
+      "type": "string"
+    }
+  }
+}

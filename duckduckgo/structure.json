@@ -1,0 +1,10 @@
+{
+  "name": "duckduckgo",
+  "description": "A duckduckgo reference.",
+  "type": "object",
+  "outputs": {
+    "duckduckgo": {
+      "type": "duckduckgo"
+    }
+  }
+}
